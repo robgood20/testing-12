@@ -14,13 +14,14 @@ header{
 #body-content{
     width: 70%;
     border: 1px solid;
-    display: inline block;
+    display: inline-block;
 }
 
 .main-container-sidebar{
     border: 1px solid;
-    display: inline block;
+    display: inline-block;
     width:  29%;
+    float: right;
 }
 
 footer{
