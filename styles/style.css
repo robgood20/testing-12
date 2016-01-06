@@ -39,6 +39,12 @@ header{
 
 }
 
+.article-title{
+    border-top: 20px solid #cfe2f3
+    padding-top: 
+}
+    
+
 .right{
     float: right;
 }
@@ -53,4 +59,21 @@ footer{
     text-align: center;
     border: 5px solid #000;
     
+}
+
+.side-article{
+    padding: 5px;
+    margin-bottom: 15px;
+}
+
+.side-article:hover{
+    background-color: magenta;
+    color: aqua;
+    margin: 40px 0;
+    border: 4px dotted salmon;
+}
+
+.img-placeholder{
+    height: 100px;
+    width: 100px;
 }
