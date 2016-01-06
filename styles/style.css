@@ -21,8 +21,18 @@ header{
 .main-container-sidebar{
     border: 1px solid;
     display: inline-block;
-    width:  29%;
+    
+}
+
+.main-container-sidebar.left{
+    width: 12%;
+    float: left;
+}
+
+.main-container-sidebar.right{
+    width: 16%;
     float: right;
+
 }
 
 .right{
