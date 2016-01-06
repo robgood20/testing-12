@@ -10,14 +10,6 @@ header{
 .main-content-container{
     min-height: 800px}
 
-footer{
-     height: 200px;
-    background-color: blue;
-    color: #fff;
-    text-align: center;
-    border: 5px solid #000;
-    
-}
 
 #body-content{
     width: 70%;
@@ -25,8 +17,17 @@ footer{
     display: inline block;
 }
 
-sidebar{
+.main-container-sidebar{
     border: 1px solid;
     display: inline block;
     width:  29%;
+}
+
+footer{
+     height: 200px;
+    background-color: blue;
+    color: #fff;
+    text-align: center;
+    border: 5px solid #000;
+    
 }
