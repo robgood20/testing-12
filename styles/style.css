@@ -6,7 +6,7 @@ header{
     height: 80px;
     background-color: #9A00FF;
     color: #fff;
-    font-size: xxx-large;
+    font-size: xx-large;
     text-align: center;
     border: 5px solid #000;
 }
@@ -16,9 +16,8 @@ header{
     min-height: 800px}
 
 
-#body-content{
+.body-content{
     width: 70%;
-    border-top: 20px;
     display: inline-block;
 }
 
@@ -36,12 +35,13 @@ header{
 .main-container-sidebar.right{
     width: 17%;
     float: right;
-
 }
 
 .article-title{
-    border-top: 20px solid #cfe2f3
-    padding-top: 
+    border-top: 20px solid #cfe2f3;
+    padding-top: 20px;
+    text-align: center;
+	font-size: 30px;
 }
     
 
