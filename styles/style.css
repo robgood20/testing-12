@@ -45,20 +45,13 @@ header{
 }
     
 
-.right{
-    float: right;
-}
-.left{
-    float: left;
-}
-
 footer{
      height: 200px;
     background-color: blue;
     color: #fff;
     text-align: center;
     border: 5px solid #000;
-    
+    clear: both;
 }
 
 .side-article{
@@ -75,5 +68,10 @@ footer{
 
 .img-placeholder{
     height: 100px;
-    width: 100px;
+    width: 100%;
+    background-color: darkblue;
+}
+
+.side-article-title{
+	border-bottom: 1px solid #000;
 }
